@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/task4_safearray/src/main.cpp
+iostream
+-
+safearray.h
+C:/task4_safearray/src/safearray.h
+
+C:/task4_safearray/src/safearray.h
+stdexcept
+-
+safearray.hpp
+C:/task4_safearray/src/safearray.hpp
+
+C:/task4_safearray/src/safearray.hpp
+safearray.h
+C:/task4_safearray/src/safearray.h
+
+C:/task4_safearray/src/subject.cpp
+subject.h
+C:/task4_safearray/src/subject.h
+
+C:/task4_safearray/src/subject.h
+iostream
+-
+string
+-
+safearray.h
+C:/task4_safearray/src/safearray.h
+

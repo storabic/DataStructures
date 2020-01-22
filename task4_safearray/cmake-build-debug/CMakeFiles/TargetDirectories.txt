@@ -1,0 +1,8 @@
+C:/task4_safearray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/task4_safearray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/task4_safearray/cmake-build-debug/src/CMakeFiles/safe_array_main.dir
+C:/task4_safearray/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/task4_safearray/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/task4_safearray/cmake-build-debug/tests/CMakeFiles/tests.dir
+C:/task4_safearray/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+C:/task4_safearray/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir

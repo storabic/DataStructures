@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/task6_sum_of_it_parts/src/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+parts.h
+C:/task6_sum_of_it_parts/src/parts.h
+
+C:/task6_sum_of_it_parts/src/parts.h
+vector
+-
+map
+-
+string
+-
+
